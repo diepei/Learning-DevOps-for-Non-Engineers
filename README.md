@@ -1,2 +1,2 @@
 # Learning DevOps for Non-Engineers
- A Guide for Non-Technical Users
+ How to start in DevOps. A Guide for Non-Technical Users.
