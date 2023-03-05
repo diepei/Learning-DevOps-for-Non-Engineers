@@ -13,8 +13,8 @@ Basic skills to land your first job as a DevOps
 1. Learn a Programming Language for Automation
     - Python
     - Go
-2. Learn Git (clone,branch,add,commit,pull,push,checkout)
-3. Learn Linux
+1. Learn Git (clone,branch,add,commit,pull,push,checkout)
+1. Learn Linux
     1. Learn to live in Terminal
         - Bash scripting
         - Powershell scripting
@@ -22,30 +22,34 @@ Basic skills to land your first job as a DevOps
         - Text Manipulation Tools (awk, sed, grep, cat, echo, tr, cut, etc)
         - Process Monitoring (ps, top, etc)
         - Network Tools (ping, netstat, tcpdump, firewalld, iptables, etc)
-4. Containers
+1. Containers
     - Docker
-5. Container Orchestration
+1. Container Orchestration
     - Kubernetes
-7. Learn CI/CD Tools
+1. Learn CI/CD Tools
     - Jenkins
     - GitLab CI
     - Azure Pipelines
-6. Infrastructure as a Code
+    
+    >Once you reach point 6 (Learn CI/CD Tools), you will be ready to start your job/internship search. By focusing on the skills that are in demand in the market and highlighting your technical abilities, you will be well-positioned to compete for a range of job opportunities.
+
+1. Infrastructure as a Code
     1. GitOps
         - ArgoCD
-    2. Service Mesh
+    1. Service Mesh
         - Istio
         - Linkerd
-    3. Infrastructure Provisioning
+    1. Infrastructure Provisioning
         - Terraform
-    4. Configuration Management
+    1. Configuration Management
         - Ansible
-8. Observability. Learn how to monitor software and infrastructure
+1. Observability. Learn how to monitor software and infrastructure
     1. Logs Management
         - Elastic Stack (Elasticsearch, Logstash, Kibana)
-    2. Infrastructure Monitoring
+    1. Infrastructure Monitoring
         - Prometheus
         - Grafana
+
 
 
 ## Introductory Questions
