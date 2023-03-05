@@ -13,7 +13,7 @@ Basic skills to land your first job as a DevOps
 1. Learn a Programming Language for Automation
     - Python
     - Go
-2. Learn Git (clone,branch,checkout,pull,push)
+2. Learn Git (clone,branch,add,commit,pull,push,checkout)
 3. Learn Linux
     1. Learn to live in Terminal
         - Bash scripting
@@ -123,7 +123,7 @@ Basic skills to land your first job as a DevOps
     >
     >In addition, a DevOps experienced mentor can help you make connections in the industry, which can be invaluable when it comes to finding job opportunities. They may know of job openings or be able to introduce you to people who can help you find a job.
     >
-    >Overall, having a DevOps experienced mentor can be a great asset when it comes to >landing your first job in DevOps. However, it's important to remember that >ultimately, your success will depend on your own efforts and dedication to >learning and developing your skills.
+    >Overall, having a DevOps experienced mentor can be a great asset when it comes to landing your first job in DevOps. However, it's important to remember that ultimately, your success will depend on your own efforts and dedication to learning and developing your skills.
 
 
 ## Courses
@@ -166,3 +166,33 @@ edX offers courses from a variety of entities including top-ranked universities,
 A Cloud Guru [acloudguru.com](acloudguru.com)
 
 ## Job Offers
+
+In the following section, we will provide an overview of job opportunities in the current market. We will outline the specific skills that are in high demand, along with the tasks that you can expect to perform in these roles. Additionally, we will include salary information to give you an idea of the earning potential for each position. Whether you're just starting your career or looking for a new challenge, these job opportunities offer a range of options for those with the right skills and experience. Read on to learn more about the exciting possibilities that await you in today's job market.
+
+>It is important to focus on the technical skills that are in demand in the job market rather than getting caught up in specific experience requirements. Many companies are willing to hire candidates with little to no experience as interns or entry-level employees, as long as they possess the necessary technical skills.
+
+Some job oportunities are:
+
+![](/images/offer%20(9).png)
+
+![](/images/offer%20(8).png)
+
+![](/images/offer%20(7).png)
+
+![](/images/offer%20(2).png)
+
+![](/images/offer%20(10).png)
+
+![](/images/offer%20(12).png)
+
+![](/images/offer%20(11).png)
+
+![](/images/offer%20(6).png)
+
+![](/images/offer%20(4).png)
+
+![](/images/offer%20(5).png)
+
+![](/images/offer%20(1).png)
+
+![](/images/offer%20(3).png)
