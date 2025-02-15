@@ -56,14 +56,14 @@ Transform your career with essential DevOps skills - No previous IT experience r
 ### Phase 3: Advanced Skills
 7. **GitOps**
     - ArgoCD
-    - 
+    
 8. **Networking**
     - Service Mesh
         - Istio
      
 9. **Infrastructure Management**
-        - IaC with Terraform
-        - Ansible for configuration
+    - IaC with Terraform
+    - Ansible for configuration
 
 10. **Monitoring & Observability**
     - Log Management
