@@ -17,7 +17,7 @@ Transform your career with essential DevOps skills - No previous IT experience r
 
 2. **Version Control with Git**
     ```bash
-    Key commands you'll learn:
+    Key commands you will learn:
     - git clone   : Copy a repository
     - git branch  : Create new features
     - git checkout: Switch branches/restore files
