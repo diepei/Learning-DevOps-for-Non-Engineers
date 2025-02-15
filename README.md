@@ -54,21 +54,24 @@ Transform your career with essential DevOps skills - No previous IT experience r
     > 💡 **Career Milestone**: At this point, you're ready to apply for junior positions! Focus on showcasing these skills in your portfolio.
 
 ### Phase 3: Advanced Skills
-7. **Infrastructure as Code**
-    - GitOps with ArgoCD
+7. **GitOps**
+    - ArgoCD
+    - 
+8. **Networking**
     - Service Mesh
         - Istio
-    - Infrastructure Management
+     
+9. **Infrastructure Management**
         - IaC with Terraform
         - Ansible for configuration
 
-8. **Monitoring & Observability**
+10. **Monitoring & Observability**
     - Log Management
         - Elastic Stack (ELK)
     - System Monitoring
         - Prometheus
-        - Grafana dashboards
-
+        - Grafana
+     
 ## 🤔 Key Concepts {#introductory-questions}
 ### Git Explained
 Git is like a time machine for your code. It tracks every change, lets you experiment safely, and helps teams work together without stepping on each other's toes.
